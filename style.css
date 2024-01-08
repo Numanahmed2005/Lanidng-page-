@@ -135,7 +135,8 @@ padding-left: 80px;
     background-image: url(/image/Ellipse\ 1.png);
     background-repeat: no-repeat;
     background-position: center;
-    
+    justify-content: center;
+   
 }
 .mid-paragraph{
     color: #F00;
@@ -174,4 +175,13 @@ font-size: 20px;
 font-style: normal;
 font-weight: 400;
 line-height: 32px; /* 160% */
+}
+.mid-t{
+    
+    margin-right: 150px;
+    padding-left: 250px;
+}
+.mid-p{
+    padding-right: 300px;
+    margin-left: 40px;
 }
