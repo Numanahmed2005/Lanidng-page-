@@ -185,3 +185,45 @@ line-height: 32px; /* 160% */
     padding-right: 300px;
     margin-left: 40px;
 }
+/*  section-5 */
+.end{
+    text-align: center;
+}
+.green{
+    color: #F00;
+text-align: center;
+font-family: Merriweather;
+font-size: 72px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+}
+#ness{
+    color: #070211;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.greenn{
+    color: #070211;
+font-family: Merriweather;
+font-size: 72px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+}
+#end{
+    color: rgba(7, 2, 17, 0.60);
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: 32px; /* 160% */
+margin-left: 100px;
+margin-right: 100px;
+}
+/*  section 6/ image section */
+
