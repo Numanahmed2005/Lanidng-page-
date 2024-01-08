@@ -226,4 +226,19 @@ margin-left: 100px;
 margin-right: 100px;
 }
 /*  section 6/ image section */
-
+.flex{
+    height: 500px;
+    display: flex;
+    align-items: center;
+    position: relative;
+}
+.fresh{
+    margin-bottom: -250px;
+}
+#fresh{
+    margin-bottom: -35px;
+}
+#flex{
+    width: 400px;
+    margin-top: -20px;
+}
