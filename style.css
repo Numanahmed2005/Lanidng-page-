@@ -130,5 +130,48 @@ padding-left: 80px;
 .mid{
     margin-top: 100px;
     height: 600px;
-    background-color: azure;
+    background-color: #fff;
+    display: flex;
+    background-image: url(/image/Ellipse\ 1.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    
+}
+.mid-paragraph{
+    color: #F00;
+
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.mid-tittle{
+    color: #070211;
+font-family: Merriweather;
+font-size: 48px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+text-transform: capitalize; 
+}
+#mid-paragraph{
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px; /* 160% */
+}
+#mid-tittle{
+    color: #f00;
+    font-size: 46px;
+}
+.ph{
+    color: rgba(7, 2, 17, 0.60);
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 32px; /* 160% */
 }
