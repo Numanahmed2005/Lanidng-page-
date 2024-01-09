@@ -228,6 +228,7 @@
     font-style: normal;
     font-weight: 500;
     line-height: normal;
+    padding-left: 400px;
 }
 
 .greenn {
@@ -351,7 +352,14 @@ font-style: normal;
 font-weight: 400;
 line-height: 32px; /* 160% */
 }
-/*  newsletter latter  */
+.input{
+    
+   
+}
+.ton{
+    color: #F00;
+}
+
 
 
 /*  footer/ finally */
