@@ -363,32 +363,49 @@ line-height: 32px; /* 160% */
    
    
 }
-.wall{
-    color: #FFF;
-    font-family: Inter;
-    font-size: 24px;
-    font-style: normal;
-    font-weight: 500;
-    line-height: 40px; /* 166.667% */
-    
-
-}
-nav{
+.ipad{
     color: #FFF;
 font-family: Inter;
 font-size: 24px;
 font-style: normal;
 font-weight: 500;
 line-height: 40px; /* 166.667% */
-display: flex;
-justify-content: space-between;
-
+padding-left: 20px;
+padding-top: 60px;
 }
-.ss{
-    display: flex;
-    justify-content: space-between;
+#ipad{
+    color: #FFF;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: 40px; /* 166.667% */
+text-align: right;
+padding-right: 20px;
+margin-top: -110px;
 }
-.social{
-    padding-left: 45%;
-    padding-top: 300px;
+.intel{
+   padding-left: 500px;
+   padding-top: 150px;
+    
 }
+ .fresh{
+    color: #FFF;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+padding-left: 20px;
+ }
+ #fresh{
+    color: #FFF;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+text-align: right;
+padding-top: 190px;
+padding-right: 20px;
+ }
